@@ -2,7 +2,7 @@ baseURL = "http://www.parkeroakes.io/daily-bread/"
 title = "Daily Bread"
 theme = "hugo-notepadium"
 copyright = "©2020 parkeroakes.io"
-
+publishDir = "docs"
 languageCode = "en"  # for the RSS generation
 defaultContentLanguage = "en"
 
